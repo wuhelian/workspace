@@ -1,0 +1,67 @@
+{
+  "version": 1,
+  "skills": {
+    "skill-installer": {
+      "name": "Clawhub",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=skill-installer",
+      "source": "skillhub",
+      "version": "1.1.1"
+    },
+    "clawhub-cli": {
+      "name": "Clawhub Cli",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=clawhub-cli",
+      "source": "skillhub",
+      "version": "1.0.2"
+    },
+    "humanize-ai-text": {
+      "name": "Humanize AI text",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=humanize-ai-text",
+      "source": "skillhub",
+      "version": "1.0.1"
+    },
+    "baidu-search": {
+      "name": "baidu web search",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=baidu-search",
+      "source": "skillhub",
+      "version": "1.1.0"
+    },
+    "multi-search-engine": {
+      "name": "Multi Search Engine",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=multi-search-engine",
+      "source": "skillhub",
+      "version": "2.0.1"
+    },
+    "playwright-cli-openclaw": {
+      "name": "Playwright CLI Automation",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=playwright-cli-openclaw",
+      "source": "skillhub",
+      "version": "1.0.0"
+    },
+    "cloudbase": {
+      "name": "Cloudbase",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=cloudbase",
+      "source": "skillhub",
+      "version": "1.18.0"
+    },
+    "baidu-search-cn": {
+      "name": "百度搜索中文版",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=baidu-search-cn",
+      "source": "skillhub",
+      "version": "1.0.2"
+    },
+    "findskills": {
+      "name": "Find Skills",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=findskills",
+      "source": "community",
+      "version": "1.0.5",
+      "installedAt": "2026-05-20T06:10:40Z"
+    },
+    "social-media-publish": {
+      "name": "Social Media Publish",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=social-media-publish",
+      "source": "community",
+      "version": "1.0.0",
+      "installedAt": "2026-05-20T06:21:18Z"
+    }
+  }
+}
