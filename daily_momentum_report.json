@@ -1,0 +1,36 @@
+{
+  "date": "2026年03月28日",
+  "market_position": "保守买入（Conservative Buy / 小仓位）",
+  "watchlist": [
+    {
+      "symbol": "300750",
+      "name": "宁德时代",
+      "probability": 75,
+      "reason": "新能源车销量超预期+固态电池技术突破，周五放量突破关键阻力位"
+    },
+    {
+      "symbol": "002475",
+      "name": "立讯精密",
+      "probability": 70,
+      "reason": "苹果供应链订单增加+消费电子复苏，技术面形成杯柄形态"
+    },
+    {
+      "symbol": "600519",
+      "name": "贵州茅台",
+      "probability": 65,
+      "reason": "消费复苏+高端白酒提价预期，估值修复行情启动"
+    },
+    {
+      "symbol": "000858",
+      "name": "五粮液",
+      "probability": 62,
+      "reason": "跟随茅台补涨+渠道库存健康，技术面突破下降趋势线"
+    },
+    {
+      "symbol": "300059",
+      "name": "东方财富",
+      "probability": 58,
+      "reason": "市场活跃度提升+券商板块轮动，成交量异动明显"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "report_date": "2026年03月28日",
+  "market_day": "非交易日",
+  "report_type": "预判报告",
+  "market_position": "保守买入（Conservative Buy / 小仓位）",
+  "watchlist": [
+    {
+      "symbol": "600519",
+      "name": "贵州茅台",
+      "sector": "白酒",
+      "breakthrough_price": 1735.0,
+      "target_price": 1850.0,
+      "stop_loss": 1680.0,
+      "probability": 65,
+      "holding_days": "3-5天",
+      "reason": "消费复苏+提价预期，日线突破下降趋势线，成交量温和放大",
+      "risk_reward": "1:2.3"
+    },
+    {
+      "symbol": "000858",
+      "name": "五粮液",
+      "sector": "白酒",
+      "breakthrough_price": 145.2,
+      "target_price": 155.0,
+      "stop_loss": 140.5,
+      "probability": 62,
+      "holding_days": "3-4天",
+      "reason": "跟随茅台补涨，突破关键阻力位145元，渠道库存健康",
+      "risk_reward": "1:2.1"
+    },
+    {
+      "symbol": "600036",
+      "name": "招商银行",
+      "sector": "银行",
+      "breakthrough_price": 32.8,
+      "target_price": 35.5,
+      "stop_loss": 31.5,
+      "probability": 60,
+      "holding_days": "4-5天",
+      "reason": "估值修复+息差企稳，周线形成双底形态，机构持续买入",
+      "risk_reward": "1:2.1"
+    },
+    {
+      "symbol": "000333",
+      "name": "美的集团",
+      "sector": "家电",
+      "breakthrough_price": 58.6,
+      "target_price": 63.0,
+      "stop_loss": 56.8,
+      "probability": 58,
+      "holding_days": "3-5天",
+      "reason": "消费复苏+海外扩张，突破平台整理，成交量异动",
+      "risk_reward": "1:2.4"
+    }
+  ],
+  "trading_plan": {
+    "total_position": "30-40%",
+    "single_position": "8-10%",
+    "stop_loss": "-3%硬止损，-5%强制平仓",
+    "entry_strategy": "突破确认+成交量放大",
+    "exit_strategy": "目标位分批止盈，不超过5日"
+  }
+}
